@@ -11,7 +11,8 @@ Always seeking in practice the most modern technologies.
 -  💻 Full-Stack loading...
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermepontual&show_icons=true&theme=radical) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermepontual&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepontual&layout=compact)](https://github.com/guilhermepontual/github-readme-stats)
+
 
 
 
