@@ -12,6 +12,8 @@ Always seeking in practice the most modern technologies.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermepontual&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepontual)](https://github.com/guilhermepontual/github-readme-stats)
+
 
 
 
