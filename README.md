@@ -7,7 +7,7 @@ Always seeking in practice the most modern technologies.
 **🏃🏻 "O medo de arriscar é o que te impede de evoluir." 🦅**
 
 -   📍  From PE living Recife 
--   👾 I have experience with HTML5, CSS3, JavaScript, and C.
+-   👾 I have experience with HTML5, CSS3, JavaScript, React.Js.
 -  💻 Full-Stack loading...
 
 
