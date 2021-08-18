@@ -1,32 +1,42 @@
 # Hi There 👋🏼
+ My name is Guilherme Pontual, I have 20 years old, I am majoring in systems analysis and development.🧑‍🎓
 
-My name is Guilherme Pontual, I live in Brazil, I am majoring in systems analysis and development, but I am studying to specialize as a Full-Stack Developer .🧑‍🎓
+I always seeking in practice the most modern technologies.
 
-Always seeking in practice the most modern technologies.
-
-**🏃🏻 "O medo de arriscar é o que te impede de evoluir." 🦅**
+**🏃🏻 "The Fear Of Risk Is What Stops You From Evolving." 🦅**
 
 -   📍  From PE living Recife 
--   👾 I have experience with HTML5, CSS3, JavaScript, React.Js.
--  💻 Full-Stack loading...
+-   👾 At the moment, I'm software developer intern at Lojas Quero-Quero S.A, It's awesome!  <
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermepontual&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepontual&layout=compact)](https://github.com/guilhermepontual/github-readme-stats)
+#
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermepontual&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" width= "50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepontual&layout=compact&langs_count=7&theme=react"/>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="50" width="60"    src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Rafa-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mysql/mysql-plain.svg">
+</div>
 
 
 
+#
 
-
-
-### I'm over here 👇
 
 [
 ![](https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d135208d8910461e986f97e7985ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465)](https://www.instagram.com/guilhermepontuall/) [ ![](https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/guilherme-pontual-063b3812b/) [![](https://camo.githubusercontent.com/d79c5549652f9c7690992eb49571d216a70a480681561cbd93bfbfc77c491e54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465)](https://www.youtube.com/channel/UCq5IaC4Qkw7vk772Roqp7vg)
 
+#
 
- 
+<img align="center" alt="Mario" width="50%" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/ddjk36s-36e736ed-a3f5-4ead-bc5a-2055ad79d8a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGRqazM2cy0zNmU3MzZlZC1hM2Y1LTRlYWQtYmM1YS0yMDU1YWQ3OWQ4YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pgxwYJcrj6fKZmowAdX5HbdvaHWItqxLpSim41_sgC4"> 
 
-
-## SKILLS 🌌
-![](https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)  ![](https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)  ![](https://camo.githubusercontent.com/93c855ae825c1757f3426f05a05f4949d3b786c5b22d0edb53143a9e8f8499f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145) ![](https://camo.githubusercontent.com/3e1012ffd12fb3c5a64eb49efb221ba71e9c84bb12f64b2a230351ae5a831da3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465) ![](https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642)
 
