@@ -6,7 +6,7 @@ I always seeking in practice the most modern technologies.
 **🏃🏻 "The Fear Of Risk Is What Stops You From Evolving." 🦅**
 
 -   📍  From PE living Recife 
--   👾 At the moment, I'm software developer intern at Lojas Quero-Quero S.A, It's awesome!💚  
+-   👾 At the moment, I'm Data Scientist intern at Lojas Quero-Quero S.A, It's awesome!💚  
 
 
 #
