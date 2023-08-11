@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Guilherme Pontual</h1>
-<h3 align="center">A RPA full stack developer from brazil</h3>
+<h3 align="center">A Data Engineer from brazil</h3>
 <br>
 <br>
 <img align="right" alt="Coding" width="400" height="350" src="https://64.media.tumblr.com/fe6d6866c5f3902586116f472a2ab20f/921683666be3fa68-8a/s540x810/90260b81c89a1cc7d3f0bdabf9096d7530e3f83d.gifv" style="border-radius: 10px;">
