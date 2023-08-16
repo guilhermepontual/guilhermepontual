@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Venturify**
 
-- 🌱 I’m currently learning **Kafka, Nifi, Spark, Databricks**
+- 🌱 I’m currently learning **Kafka, Nifi, Apache Spark, Databricks**
 
 - 💬 Ask me about **Python**
 
