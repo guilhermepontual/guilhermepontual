@@ -1,20 +1,16 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Guilherme Pontual</h1>
-<h3 align="center">A Data Engineer from brazil</h3>
+<h3 align="center">A Data Scraping from brazil</h3>
 <br>
 <br>
 <img align="right" alt="Coding" width="400" height="350" src="https://64.media.tumblr.com/fe6d6866c5f3902586116f472a2ab20f/921683666be3fa68-8a/s540x810/90260b81c89a1cc7d3f0bdabf9096d7530e3f83d.gifv" style="border-radius: 10px;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilhermepontual&label=Profile%20views&color=0e75b6&style=flat" alt="guilhermepontual" /> </p>
 
-- 🔭 I’m currently working on **Wisell**
-
-- 🌱 I’m currently learning **Apache Spark**
+- 🔭 I’m currently working on **Novo Atacarejo**
 
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **guilhermeeli2009@hotmail.com**
-
-- 📄 Know about my experiences [https://resume_pt_br.tiiny.site](https://resume_pt_br.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
